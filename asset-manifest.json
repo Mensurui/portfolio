@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6533115c.css",
+    "main.js": "/portfolio/static/js/main.8d691bfa.js",
+    "static/media/webApp.png": "/portfolio/static/media/webApp.aee64a4b8ee1ad65fc79.png",
+    "static/media/vanLines.png": "/portfolio/static/media/vanLines.f899bb489dc1ab027ff6.png",
+    "static/media/booksShelfApp.png": "/portfolio/static/media/booksShelfApp.2a755c05fcfcadedc24d.png",
+    "static/media/log.png": "/portfolio/static/media/log.bc8cd4a747216ce123ce.png",
+    "static/media/diabeticsApp.jpg": "/portfolio/static/media/diabeticsApp.b8f44c714f3e5dbbc20e.jpg",
+    "static/media/helvetica-neu.ttf": "/portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo_sub.png": "/portfolio/static/media/logo_sub.59c4176073fa47c0e57c.png",
+    "static/media/CoolveticaRg-Regular.woff": "/portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/portfolio/index.html",
+    "main.6533115c.css.map": "/portfolio/static/css/main.6533115c.css.map",
+    "main.8d691bfa.js.map": "/portfolio/static/js/main.8d691bfa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6533115c.css",
+    "static/js/main.8d691bfa.js"
+  ]
+}
